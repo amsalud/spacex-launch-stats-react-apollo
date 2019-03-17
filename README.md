@@ -1,6 +1,6 @@
 # SpaceX Launch Details
 
-An app which uses the official SpaceX outputs rocket launch details built with React, Node, Apollo, and GraphQL.
+An app which uses the official SpaceX API and displays rocket launch details built with React, Node, Apollo, and GraphQL.
 
 ## Instructions:
 
