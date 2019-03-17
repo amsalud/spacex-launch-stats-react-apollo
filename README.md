@@ -4,6 +4,8 @@ An app which uses the official SpaceX API and displays rocket launch details bui
 
 ## Instructions:
 
+Navigate to the root folder of the app before running the following commands listed below.
+
 For development purposes run `npm run dev`
 
 For build and deployment run `npm run build`
