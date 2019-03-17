@@ -23,7 +23,7 @@ class App extends Component {
               style={{ width: 300, display: 'block', margin: 'auto' }}
             />
             <Route exact path="/" component={Launches} />
-            <Route exact path="/launch" component={Launch} />
+            <Route exact path="/launch/:flight_number" component={Launch} />
           </div>
         </Router>
       </ApolloProvider>
