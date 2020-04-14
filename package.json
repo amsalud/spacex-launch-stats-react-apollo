@@ -12,7 +12,7 @@
   "author": "Aaron Mikhail Salud",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "concurrently": "^4.1.0",
     "cors": "^2.8.5",
     "express": "^4.16.4",
@@ -20,6 +20,6 @@
     "graphql": "^14.1.1"
   },
   "devDependencies": {
-    "nodemon": "^1.18.10"
+    "nodemon": "^2.0.3"
   }
 }
